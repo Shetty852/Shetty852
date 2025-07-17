@@ -20,7 +20,6 @@ I love building modern web applications, learning new technologies, and solving 
 - 🔭 Working on: a **Deep Learning Model**
 - 🌱 Learning: **Flutter** and **Data Analytics**
 - 🤝 Open to: **Collaborating on exciting projects**
-- 🕸️ Fun fact: *I'm secretly Spiderman 🕷️ (shhh...)*
 
 ---
 
