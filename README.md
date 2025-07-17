@@ -65,16 +65,15 @@ I love building modern web applications, learning new technologies, and solving 
 
 <p align="left">
   <a href="https://github.com/Shetty852" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg" width="32" alt="GitHub" style="filter: brightness(0) invert(1);" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/rohan-shetty-1603ba230" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/linkedin.svg" width="32" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/shettyr_o_h_a_n" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="32" alt="Instagram" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" alt="Instagram" />
   </a>
 </p>
-
 
 ---
 
