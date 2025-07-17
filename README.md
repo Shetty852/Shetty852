@@ -66,16 +66,15 @@ I love building modern web applications, learning new technologies, and solving 
 
 <p align="left">
   <a href="https://github.com/Shetty852" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-light.svg" width="32" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/rohan-shetty-1603ba230" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/shettyr_o_h_a_n" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-light.svg" width="32" alt="Instagram" />
   </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
