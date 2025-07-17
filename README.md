@@ -75,6 +75,7 @@ I love building modern web applications, learning new technologies, and solving 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-light.svg" width="32" alt="Instagram" />
   </a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
