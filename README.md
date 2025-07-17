@@ -17,7 +17,7 @@ I love building modern web applications, learning new technologies, and solving 
 
 - 🌍 Based in **India**
 - ✉️ Contact me at: [rohanxtty333@gmail.com](mailto:rohanxtty333@gmail.com)
-- 🔭 Working on: a **Deep Learning Model**
+- 🔭 Working on:  **Deep Learning Model**
 - 🌱 Learning: **Flutter** and **Data Analytics**
 - 🤝 Open to: **Collaborating on exciting projects**
 
