@@ -1,141 +1,94 @@
-<!-- Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohan%20Shetty&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50"/>
-
-<!-- Enhanced Header with Multiple Animations -->
-<div align="center">
-  
-  <!-- Advanced Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi+there!+I'm+Rohan+Shetty;💻+Full+Stack+Developer;🚀+Building+the+Future+with+Code;🤝+Open+to+Collaborations!" alt="Typing Animation" />
-  
-  <!-- Professional Badges Row -->
-  <p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Shetty852.Shetty852&left_color=blueviolet&right_color=ff6ec7" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/Shetty852?label=Followers&style=social" alt="GitHub Followers"/>
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="Focus"/>
-    <img src="https://img.shields.io/badge/Lives-India-success" alt="Lives"/>
-    <img src="https://img.shields.io/badge/Languages-4+-blue" alt="Languages"/>
-  </p>
-  
-  <!-- Animated Separator -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300">
-
-🎓 I'm a passionate developer currently pursuing my **MCA at NMAMIT, Nitte**  
-💻 I love building modern web applications, learning new technologies, and solving real-world problems with code  
-🌟 Always excited to work on innovative projects and collaborate with like-minded developers  
-🎯 My goal is to create impactful software solutions that make a difference  
-
-<br clear="both">
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Currently Working On
-
-<img align="left" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="250">
-
-```yaml
-Current Focus:
-  🔭 Project: "Deep Learning Model Development"
-  🌱 Learning: "Flutter & Data Analytics"
-  🎯 Goal: "Mastering Full Stack Development"
-  💡 Interest: "AI/ML Integration in Web Apps"
-  🤝 Looking: "Exciting Collaboration Opportunities"
-  📍 Location: "India 🇮🇳"
-  📧 Email: "rohanxtty333@gmail.com"
-```
-
-<br clear="both">
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack & Tools
-
 <div align="center">
 
-### 🚀 **Programming Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript" />
-</p>
+# Rohan Shetty
 
-### 🎨 **Frontend Development** 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MCA+Student+at+NMAMIT%2C+Nitte;Building+Modern+Web+Applications" alt="Typing SVG" />
 
-### ⚙️ **Backend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### 🗄️ **Databases & Cloud**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-### 🛠️ **Tools & Technologies**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,git,vscode,github,figma" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shetty852.Shetty852" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Shetty852?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"/>
 </p>
 
 </div>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Connect With Me
+## About Me
+
+I'm a passionate Full Stack Developer currently pursuing my **Master of Computer Applications (MCA)** at NMAMIT, Nitte. I specialize in building modern web applications and have a keen interest in emerging technologies.
+
+### Currently
+- 🔭 Working on **Deep Learning Model Development**
+- 🌱 Learning **Flutter** and **Data Analytics**
+- 🤝 Open to **collaboration** on innovative projects
+- 📍 Based in **India**
+- 📧 Contact: [rohanxtty333@gmail.com](mailto:rohanxtty333@gmail.com)
+
+<br/>
+
+## Technical Skills
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+
+<br/>
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Shetty852">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohan-shetty-1603ba230">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/shettyr_o_h_a_n">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:rohanxtty333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<br/>
+
+## GitHub Statistics
 
 <div align="center">
-  
-<a href="https://github.com/Shetty852" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/rohan-shetty-1603ba230" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/shettyr_o_h_a_n" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:rohanxtty333@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shetty852&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=e1e4e8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shetty852&layout=compact&theme=default&border_color=e1e4e8"/>
 </div>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shetty852&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shetty852&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shetty852&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shetty852&bg_color=0d1117&color=708090&line=24292e&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shetty852&theme=default&border=e1e4e8" alt="GitHub Streak"/>
 </div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shetty852/Shetty852/output/snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 ---
 
 <div align="center">
-  <h3>💖 Thanks for visiting my profile! 💖</h3>
-  <p>⭐️ Star my repositories if you find them interesting!</p>
+  <h3>Thanks for visiting! ⭐</h3>
+  <p><em>Feel free to explore my repositories and connect with me!</em></p>
 </div>
